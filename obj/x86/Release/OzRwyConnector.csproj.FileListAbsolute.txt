@@ -1,0 +1,10 @@
+C:\Users\rgrah\documents\visual studio 2013\Projects\Ozrunways\Ozrunways\bin\x86\Release\OzRwyConnector.exe.config
+C:\Users\rgrah\documents\visual studio 2013\Projects\Ozrunways\Ozrunways\bin\x86\Release\OzRwyConnector.exe
+C:\Users\rgrah\documents\visual studio 2013\Projects\Ozrunways\Ozrunways\bin\x86\Release\OzRwyConnector.pdb
+C:\Users\rgrah\documents\visual studio 2013\Projects\Ozrunways\Ozrunways\bin\x86\Release\LockheedMartin.Prepar3D.SimConnect.dll
+C:\Users\rgrah\documents\visual studio 2013\Projects\Ozrunways\Ozrunways\bin\x86\Release\Microsoft.FlightSimulator.SimConnect.dll
+C:\Users\rgrah\documents\visual studio 2013\Projects\Ozrunways\Ozrunways\obj\x86\Release\Ozrunways.Form1.resources
+C:\Users\rgrah\documents\visual studio 2013\Projects\Ozrunways\Ozrunways\obj\x86\Release\Ozrunways.Properties.Resources.resources
+C:\Users\rgrah\documents\visual studio 2013\Projects\Ozrunways\Ozrunways\obj\x86\Release\OzRwyConnector.csproj.GenerateResource.Cache
+C:\Users\rgrah\documents\visual studio 2013\Projects\Ozrunways\Ozrunways\obj\x86\Release\OzRwyConnector.exe
+C:\Users\rgrah\documents\visual studio 2013\Projects\Ozrunways\Ozrunways\obj\x86\Release\OzRwyConnector.pdb

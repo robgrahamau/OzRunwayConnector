@@ -1,0 +1,10 @@
+C:\Users\rgrah\documents\visual studio 2013\Projects\Ozrunways\Ozrunways\bin\x86\Debug\OzRwyConnector.exe.config
+I:\git\generalprojects\Ozrunways\bin\Debug\OzRwyConnector.exe.config
+I:\git\generalprojects\Ozrunways\bin\Debug\OzRwyConnector.exe
+I:\git\generalprojects\Ozrunways\bin\Debug\OzRwyConnector.pdb
+I:\git\generalprojects\Ozrunways\Ozrunways\obj\x86\Debug\OzRwyConnector.csprojResolveAssemblyReference.cache
+I:\git\generalprojects\Ozrunways\Ozrunways\obj\x86\Debug\Ozrunways.mainform.resources
+I:\git\generalprojects\Ozrunways\Ozrunways\obj\x86\Debug\Ozrunways.Properties.Resources.resources
+I:\git\generalprojects\Ozrunways\Ozrunways\obj\x86\Debug\OzRwyConnector.csproj.GenerateResource.Cache
+I:\git\generalprojects\Ozrunways\Ozrunways\obj\x86\Debug\OzRwyConnector.exe
+I:\git\generalprojects\Ozrunways\Ozrunways\obj\x86\Debug\OzRwyConnector.pdb

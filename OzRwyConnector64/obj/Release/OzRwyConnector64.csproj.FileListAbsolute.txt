@@ -1,0 +1,12 @@
+I:\git\generalprojects\Ozrunways\OzRwyConnector64\bin\Release\OzRwyConnector64.exe.config
+I:\git\generalprojects\Ozrunways\OzRwyConnector64\bin\Release\OzRwyConnector64.exe
+I:\git\generalprojects\Ozrunways\OzRwyConnector64\bin\Release\OzRwyConnector64.pdb
+I:\git\generalprojects\Ozrunways\OzRwyConnector64\bin\Release\LockheedMartin.Prepar3D.SimConnect.dll
+I:\git\generalprojects\Ozrunways\OzRwyConnector64\obj\Release\OzRwyConnector64.mainform.resources
+I:\git\generalprojects\Ozrunways\OzRwyConnector64\obj\Release\OzRwyConnector64.Properties.Resources.resources
+I:\git\generalprojects\Ozrunways\OzRwyConnector64\obj\Release\OzRwyConnector64.csproj.GenerateResource.Cache
+I:\git\generalprojects\Ozrunways\OzRwyConnector64\obj\Release\OzRwyConnector64.exe
+I:\git\generalprojects\Ozrunways\OzRwyConnector64\obj\Release\OzRwyConnector64.pdb
+I:\git\generalprojects\Ozrunways\OzRwyConnector64\obj\Release\OzRwyConnector64.csproj.CoreCompileInputs.cache
+I:\git\generalprojects\Ozrunways\OzRwyConnector64\obj\Release\OzRwyConnector64.csprojAssemblyReference.cache
+I:\git\generalprojects\Ozrunways\OzRwyConnector64\obj\Release\OzRwyConnector64.csproj.CopyComplete

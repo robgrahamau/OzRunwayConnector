@@ -1,0 +1,21 @@
+C:\Users\rgrah\documents\visual studio 2013\Projects\Ozrunways\Ozrunways\bin\Release\OzRwyConnector.exe.config
+C:\Users\rgrah\documents\visual studio 2013\Projects\Ozrunways\Ozrunways\bin\Release\OzRwyConnector.exe
+C:\Users\rgrah\documents\visual studio 2013\Projects\Ozrunways\Ozrunways\bin\Release\OzRwyConnector.pdb
+C:\Users\rgrah\documents\visual studio 2013\Projects\Ozrunways\Ozrunways\bin\Release\LockheedMartin.Prepar3D.SimConnect.dll
+C:\Users\rgrah\documents\visual studio 2013\Projects\Ozrunways\Ozrunways\obj\Release\Ozrunways.Form1.resources
+C:\Users\rgrah\documents\visual studio 2013\Projects\Ozrunways\Ozrunways\obj\Release\Ozrunways.Properties.Resources.resources
+C:\Users\rgrah\documents\visual studio 2013\Projects\Ozrunways\Ozrunways\obj\Release\OzRwyConnector.csproj.GenerateResource.Cache
+C:\Users\rgrah\documents\visual studio 2013\Projects\Ozrunways\Ozrunways\obj\Release\OzRwyConnector.exe
+C:\Users\rgrah\documents\visual studio 2013\Projects\Ozrunways\Ozrunways\obj\Release\OzRwyConnector.pdb
+I:\git\generalprojects\Ozrunways\Ozrunways\bin\Release\OzRwyConnector.exe.config
+I:\git\generalprojects\Ozrunways\Ozrunways\bin\Release\OzRwyConnector.exe
+I:\git\generalprojects\Ozrunways\Ozrunways\bin\Release\OzRwyConnector.pdb
+I:\git\generalprojects\Ozrunways\Ozrunways\bin\Release\LockheedMartin.Prepar3D.SimConnect.dll
+I:\git\generalprojects\Ozrunways\Ozrunways\bin\Release\Microsoft.FlightSimulator.SimConnect.dll
+I:\git\generalprojects\Ozrunways\Ozrunways\obj\Release\OzRwyConnector.csprojResolveAssemblyReference.cache
+I:\git\generalprojects\Ozrunways\Ozrunways\obj\Release\Ozrunways.mainform.resources
+I:\git\generalprojects\Ozrunways\Ozrunways\obj\Release\Ozrunways.Properties.Resources.resources
+I:\git\generalprojects\Ozrunways\Ozrunways\obj\Release\OzRwyConnector.csproj.GenerateResource.Cache
+I:\git\generalprojects\Ozrunways\Ozrunways\obj\Release\OzRwyConnector.exe
+I:\git\generalprojects\Ozrunways\Ozrunways\obj\Release\OzRwyConnector.pdb
+I:\git\generalprojects\Ozrunways\Ozrunways\obj\Release\OzRwyConnector.csproj.CoreCompileInputs.cache
