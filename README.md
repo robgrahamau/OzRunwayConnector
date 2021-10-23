@@ -13,3 +13,16 @@ I might get a MSFS specific version done 'soon'.
 Enjoy
 
 Rob.
+
+Be Aware that the OzRunways Logo is Copyright and Trademarked of OzRunways, the version here was used and designed with permission for the use of the Connector.
+
+You may not in any shape or form change the logo with out prior written permission from OzRunways Pty Ltd.
+
+
+
+Legalise.
+
+Original Code base is Copyright 2012-2021 by Robert Graham and released under the GNU V3.0 license.
+OzRunways, OzRwy and Associtated items are Copyright and or Trademarks of OzRunways Pty Ltd and were used with permission.
+
+This code is released as is, any issues etc are at your own risk.
